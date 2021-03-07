@@ -1,7 +1,7 @@
 ![Uni Jekyll Theme](/assets/img/share.jpg)
 
 # Uni – A one-page Jekyll theme
-h
+
 [View Half Demo](http://brianmaierjr.com/uni/) | [View Full Demo](http://brianmaierjr.com/uni/full) | [View Card Demo](http://brianmaierjr.com/uni/card)
 
 ## Features
