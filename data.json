@@ -2,13 +2,11 @@
     "frames": [
         {
             "text": "ACR",
-            "icon": 27863,
-            "index": 0
+            "icon": 27863
         },
         {
             "text": "M",
-            "icon": 27863,
-            "index": 1
+            "icon": 27863
         }
     ]
 }
